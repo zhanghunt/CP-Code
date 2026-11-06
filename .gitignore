@@ -1,0 +1,8 @@
+#Build Output
+build/
+*.exe
+*.o
+*.obj
+
+#Vs Code Side effects
+.vscode/
